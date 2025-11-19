@@ -1,6 +1,6 @@
 /*
  * Projeto: Tetris Stack - Gerenciador de Fila de Peças
- * Desenvolvedor: [Seu Nome]
+ * Desenvolvedor: Gerbeson
  * Descrição: Implementação de uma fila circular para gerenciar as próximas peças
  * do jogo Tetris Stack utilizando Structs e Arrays.
  * Data: 2024
